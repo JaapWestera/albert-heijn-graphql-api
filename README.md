@@ -10,7 +10,7 @@ Using the GraphQL introspection the complete set of queries and mutations were e
 
 <details>
   <summary>Visualization of the whole API:</summary>
-     ![](/docs/albert_heijn_graphql.svg)
+  ![albert_heijn_graphql](https://github.com/JaapWestera/appy-graphql/assets/2284636/5bc59fc5-f346-4645-88a7-b1f7939a08f2)
 </details>
 
 
